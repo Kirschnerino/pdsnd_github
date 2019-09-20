@@ -8,7 +8,7 @@ Python BikeShare Project
 Analyse BikeShare data of american cities
 
 ### Files used
-bikeshare.py
+bikeshare.py on basis of csv data
 
 ### Credits
 All credit to udacity as this is part of the degree.
