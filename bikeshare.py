@@ -1,3 +1,7 @@
+"""
+Import packages to simplify code and give better analyzing methods
+"""
+
 import time
 import pandas as pd
 import numpy as np
